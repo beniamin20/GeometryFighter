@@ -2,8 +2,6 @@
 //  GeometryFighterUITests.swift
 //  GeometryFighterUITests
 //
-//  Created by Eric Internicola on 5/8/16.
-//  Copyright © 2016 Eric Internicola. All rights reserved.
 //
 
 import XCTest

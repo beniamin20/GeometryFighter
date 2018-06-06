@@ -2,8 +2,6 @@
 //  GameViewController.swift
 //  GeometryFighter
 //
-//  Created by Eric Internicola on 5/8/16.
-//  Copyright (c) 2016 Eric Internicola. All rights reserved.
 //
 
 import UIKit
@@ -61,7 +59,7 @@ private extension GameViewController {
 
     func setupDebug() {
         scnView.showsStatistics = true
-//        scnView.allowsCameraControl = true
+        scnView.allowsCameraControl = true
         scnView.autoenablesDefaultLighting = true
     }
 

@@ -2,8 +2,6 @@
 //  GameSceneManager.swift
 //  GeometryFighter
 //
-//  Created by Internicola, Eric on 1/6/17.
-//  Copyright © 2017 Eric Internicola. All rights reserved.
 //
 
 import SceneKit
